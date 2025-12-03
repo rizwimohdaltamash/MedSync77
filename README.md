@@ -51,8 +51,6 @@
 
 ## 🏗️ Architecture
 
-![MedSync Architecture](./architecture.svg)
-
 ### System Architecture Overview
 
 **MedSync** follows a modern, component-based architecture built with React:
